@@ -21,13 +21,5 @@
 <h3 align="center">	😳<b> Special Facility</b> 😳</h3>
 <h3 align="center">1. Machine Vs Human 👉  Machine get the first chance to play</h3>
 <h3 align="center">2. Human Vs Machine 👉  Human Get the first chance to play</h3>
-<h3 align="center"><b>Show 💘 by Starring this Repo</b></h3>
 
----
-<h3 align="center">💡 <b>Important Links</b> 💡</h3>
 
-- #### [Click Here to See the Project Video](https://youtu.be/eDpWs09ZGvI)
-
-- #### [Follow Me on LinkedIn to Get Project Updates](https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/ "LCO")
-
-<h2 align="center"><b>❤️ Thank You For Visiting 🙏, Have a Nice Day ❤️</b></h2>
